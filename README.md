@@ -4,7 +4,7 @@
 
 **技术栈：** vue全家桶、Node.js、mongodb数据库、localStorage
 ----------
-**依赖：** axios、body-parser、cors、iview、js-cookie、mongoose、vue、vue-router、vuex
+**依赖：** axios、cors、iview、mongoose、vue、vue-router、vuex
 ----------
 **功能实现：**
   1. 用户注册：在用户使用时根据数据中存储的数据来判断是否已经注册；（后添加）
