@@ -132,10 +132,6 @@ export default {
             this.showTask = true;
             this.$store.commit('changeHeadBtn',{bl:false});
         },
-        inpBlur(e){
-            // console.log(e)
-            // this.showTask = false;
-        },
         outLogin(){
             Cookies.remove('teambitionVue');
             this.$router.push({path:'/'})
